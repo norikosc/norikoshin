@@ -1,0 +1,16 @@
+h1 {
+    color: chocolate;
+    text-align: center;
+}
+
+h2 {
+    color: aqua;
+    text-align: center;
+}
+body {
+    background-image: url(./imagenes/img1.jpg);
+}
+img {
+    border-radius: 10%;
+
+}
